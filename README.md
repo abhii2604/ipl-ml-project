@@ -31,4 +31,4 @@ This project uses machine learning techniques to analyze IPL cricket data and pr
 3. View outputs  
 
 ## Author
-Abhinav Reddy
+Tirumala Abhinav Reddy
